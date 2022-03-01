@@ -1,0 +1,274 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Protestant seaman's resolution to fight for King VVilliam. Or, The total destruction of Popery in this reformed land and nation. To the tune of, The souldier's departure.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1689</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 4 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B04871</idno>
+            <idno type="STC">Wing P3842</idno>
+            <idno type="STC">Interim Tract Supplement Guide EBB65H[62]</idno>
+            <idno type="EEBO-CITATION">99887270</idno>
+            <idno type="PROQUEST">ocm99887270</idno>
+            <idno type="VID">181979</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B04871)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 181979)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; A2:4[62])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Protestant seaman's resolution to fight for King VVilliam. Or, The total destruction of Popery in this reformed land and nation. To the tune of, The souldier's departure.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.) : ill. (woodcuts).  </extent>
+               <publicationStmt>
+                  <publisher>Printed for J[osiah]. Blare.,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>[1689]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Verse: "Come brave noble hearted sea-men ..."</note>
+                  <note>Place, date of publication and publisher's name from Wing.</note>
+                  <note>Reproduction of original in the Harvard University, Houghton Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ballads, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-02</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-02</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="ballad">
+            <pb facs="tcp:181979:1"/>
+            <!-- PDF PAGE 19 -->
+            <head>The PROTESTANT Seaman's Reſolution To Fight for King <hi>VVILLIAM.</hi> 
+            </head>
+            <head type="sub">OR The Total Deſtruction of Popery in this Reformed Land and Nation.</head>
+            <opener>To the Tune of, <hi>The Souldier's Departure.</hi>
+            </opener>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>COme brave noble hearted Sea-men,</l>
+               <l>let us a<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>l with Courage ſtand,</l>
+               <l>To maintain our Natives free men,</l>
+               <l>in this Ancient Chriſtian Land;</l>
+               <l>That <hi>Rome</hi> never may enſlave us,</l>
+               <l>by their crafty Vi<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>any;</l>
+               <l>We'll not do as they would have us,</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>but will pull down Popery.</hi>
+                  </l>
+               </lg>
+            </lg>
+            <lg>
+               <l>This great Prince is come from <hi>Holland,</hi>
+               </l>
+               <l>to maintain the Nations right;</l>
+               <l>We by Sea will bravely fall on,</l>
+               <l>when there ſhall be need to fight;</l>
+               <l>Cannons roar like Claps of Thunder,</l>
+               <l>on the foaming Ocean Sea,</l>
+               <l>For to keep the <hi>Romans</hi> under,</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>and to pull down Popery.</hi>
+                  </l>
+               </lg>
+            </lg>
+            <lg>
+               <l>Theſe two Fleets are joyn'd together,</l>
+               <l>
+                  <hi>Brittains</hi> bleſſing to regain.</l>
+               <l>Fearing neither Wind nor Weather,</l>
+               <l>Boys, we'll plow the Ocean main;</l>
+               <l>For to drive the world before us,</l>
+               <l>as our Enemies ſhall ſee,</l>
+               <l>
+                  <hi>France</hi> ſhall ſoon our Rights reſtore us,</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>for we'll pull down Popery.</hi>
+                  </l>
+               </lg>
+            </lg>
+            <p>
+               <figure/>
+            </p>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>Let true valliant Sou's aſſemble,</l>
+               <l>ſcorning ever to retreat,</l>
+               <l>Till we make all <hi>France</hi> to tremble,</l>
+               <l>at our vaſt commanding Fleet;</l>
+               <l>Boys, we'll keep them in ſubjection,</l>
+               <l>for we vow to keep the Sea;</l>
+               <l>King <hi>William</hi> will be out protection,</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>while we pull down Popery.</hi>
+                  </l>
+               </lg>
+            </lg>
+            <lg>
+               <l>May the <hi>French</hi> King have no Trading</l>
+               <l>to the Lands which we belong,</l>
+               <l>But let's ſeize his Ships of Lading,</l>
+               <l>to retaliate our wrong:</l>
+               <l>Nay, and likewiſe for his Merit,</l>
+               <l>the Pope's Vaſſal may he be,</l>
+               <l>Or elſe drown'd himſelf in Claret,</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>while we pull down Popery.</hi>
+                  </l>
+               </lg>
+            </lg>
+            <lg>
+               <l>They have felt great <hi>Brittains</hi> power</l>
+               <l>in the former ages paſt,</l>
+               <l>And there's Seamen to this hour,</l>
+               <l>that will fight while Life doth laſt,</l>
+               <l>For their Native Land and Nation,</l>
+               <l>On the ſtormy Ocean Sea;</l>
+               <l>Now without all Diſputation,</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>we ſhall pull down Popery.</hi>
+                  </l>
+               </lg>
+            </lg>
+            <lg>
+               <l>I on board my Name will enter,</l>
+               <l>and not ſtand the leaſt to p<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>uſe,</l>
+               <l>Life and Fortune freely venter,</l>
+               <l>to maintain the Chriſtian Cauſe;</l>
+               <l>What can be a greater Glory,</l>
+               <l>than to fight for Liberty?</l>
+               <l>Send our Foes to Purgatory,</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>as we pull down Popery.</hi>
+                  </l>
+               </lg>
+            </lg>
+            <lg>
+               <l>Might I have the greateſt treaſure,</l>
+               <l>which the Nation can afford,</l>
+               <l>And enjoy both peace and pleaſure,</l>
+               <l>yet I'de freely go on b<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ard:</l>
+               <l>This my Duty does require,</l>
+               <l>for to fight for Liberty,</l>
+               <l>Make our proudeſt Foes retire,</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>likewiſe pull down Popery.</hi>
+                  </l>
+               </lg>
+            </lg>
+            <lg>
+               <l>To reward the hateful malice,</l>
+               <l>of the Antichriſtian Slaves,</l>
+               <l>Send them hence to <hi>Pluto</hi>'s Pallace,</l>
+               <l>make the feaming Seas their Graves,</l>
+               <l>Let them make their Invocation,</l>
+               <l>to their old St. <hi>Anthony,</hi>
+               </l>
+               <l>While we purge and clear the Nation,</l>
+               <lg type="refrain">
+                  <l>
+                     <hi>from the Dregs of Popery.</hi>
+                  </l>
+               </lg>
+            </lg>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed for <hi>J. Blare.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
